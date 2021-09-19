@@ -1,6 +1,8 @@
 # Certificates
 Certifications I've completed. 
 
+#Select to see the certification
+
 ## [SCRUMstudy](https://www.scrumstudy.com)
 -  [Scrum Fundamentals Certified](https://www.scrumstudy.com/certification/verify?type=SFC&number=869881)
 
@@ -15,3 +17,6 @@ Certifications I've completed.
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ghccristia/responsive-web-design)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ghccristia/javascript-algorithms-and-data-structures) 
 - [Data Visualization Certification](https://www.freecodecamp.org/certification/ghccristia/data-visualization) 
+
+---
+⌨️with ❤ by [gcristia](https://github.com/gcristia) 😊
