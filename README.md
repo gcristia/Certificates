@@ -12,6 +12,7 @@ Certifications I've completed.
 - [Angular: De cero a experto - (Edición 2021)](https://www.udemy.com/certificate/UC-95c26919-be74-4808-9f41-f4d7a446b1b2)
 - [Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN](https://www.udemy.com/certificate/UC-fa425ccc-8915-42c5-b4d4-7550ccb693bd)
 - [Angular: Aplicaciones en tiempo real con sockets y rest](https://www.udemy.com/certificate/UC-f15f98ed-3d15-4582-8d4f-7c428c8912e1)
+- [REDUX en Angular con NGRX: Desde las bases hasta la práctica](https://www.udemy.com/certificate/UC-65e57c1d-7ed0-4264-8904-0287a5f45dd5)
 - [ReactiveX-RxJs: De Cero hasta los detalles](https://www.udemy.com/certificate/UC-63d2e6d3-1444-43ad-b035-641429cd4ca9) 
 
 ## [freeCodeCamp](https://www.freecodecamp.org)
